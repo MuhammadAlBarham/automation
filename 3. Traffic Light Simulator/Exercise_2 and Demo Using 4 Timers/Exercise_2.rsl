@@ -1,0 +1,358 @@
+FILE,LAD 2:
+SOR,0 XIO,T4:3/DN TON,T4:0,80 EOR,0
+RCM,Left Traffic Light
+SOR,1 XIC,T4:0/TT OTE,O:2/6 EOR,1
+RCM,The Green light will remain for 8 seconds
+SOR,2 XIC,T4:0/DN TON,T4:1,40 EOR,2
+RCM,
+SOR,3 XIC,T4:1/TT OTE,O:2/5 EOR,3
+RCM,The Amber light will remain for 4 seconds
+SOR,4 BST,1 XIC,T4:0/TT NXB,1 XIC,T4:1/TT BND,1 OTE,O:2/0 EOR,4
+RCM,Start the squence of the Left Traffic Light
+SOR,5 XIC,T4:0/DN XIC,T4:1/DN TON,T4:2,80 EOR,5
+RCM,
+SOR,6 XIC,T4:2/TT OTE,O:2/2 EOR,6
+RCM,The Green light will remain for 8 seconds
+SOR,7 XIC,T4:2/DN TON,T4:3,40 EOR,7
+RCM,
+SOR,8 XIC,T4:3/TT OTE,O:2/1 EOR,8
+RCM,The Amber light will remain for 4 seconds
+SOR,9 BST,1 XIC,T4:2/TT NXB,1 XIC,T4:3/TT BND,1 OTE,O:2/4 EOR,9
+RCM,Start the squence of the Right Traffic Light
+SOR,10 END,10
+RCM,
+FILE,SBR 3:
+SOR,0 END,0
+RCM,
+FILE,SBR 4:
+SOR,0 END,0
+RCM,
+FILE,SBR 5:
+SOR,0 END,0
+RCM,
+FILE,SBR 6:
+SOR,0 END,0
+RCM,
+FILE,SBR 7:
+SOR,0 END,0
+RCM,
+FILE,SBR 8:
+SOR,0 END,0
+RCM,
+FILE,SBR 9:
+SOR,0 END,0
+RCM,
+BTBL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NTBL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+FTBL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+SYMBOLS
+O:2/0 Red Light/ Left
+O:2/2 Green Light/ Left
+O:2/1 Amber Light/ Left
+O:2/6 Green Light/ Right
+T4:0 Green Timer/ Right
+T4:1 Amber Timer/ Right
+O:2/5 Amber Light/ Right
+T4:2 Green Timer/ Left
+O:2/4 Red Light/ Right
+T4:3 Amber Timer/ Left
