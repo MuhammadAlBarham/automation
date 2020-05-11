@@ -1,0 +1,23 @@
+file 1
+
+Implement the following C++ codes using Ladder Logic assume X is stored in N7:1 and Y in N7:2
+
+
+if (X>5)
+
+Y= 4X+1;
+
+else
+
+Y= X3-2X+1
+
+
+
+file 2
+
+Implement the following C++ code using Ladder Logic assume A is stored in N7:1 and i in N7:2:
+
+
+for(i=0, i<10, i++)
+
+A= A+5
