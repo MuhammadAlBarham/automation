@@ -12,7 +12,7 @@ This repository has files that were implemented by myself during the second seme
 - Course's Examples Solutions.
 
 
-- **Special thanks**: 
+## **Special thanks**: 
 
 - Course instructor Dr. Musa Al-Yaman 
 - Lab instructor : Eng. Safaa Al-Wriedat 
