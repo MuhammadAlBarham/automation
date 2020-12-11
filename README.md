@@ -18,5 +18,5 @@ This repository has files that were implemented by myself during the second seme
 - Lab instructor : Eng. Safaa Al-Wriedat 
 
 
-- [My YouTube Playlisty](https://www.youtube.com/playlist?list=PLR7GqPO_6lTgoqBkRVdcAt3OrpF7vdkGS).
+- [My YouTube Playlist](https://www.youtube.com/playlist?list=PLR7GqPO_6lTgoqBkRVdcAt3OrpF7vdkGS).
 
