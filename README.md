@@ -2,7 +2,7 @@
 
 # Automation
 
-This repository has files that were implemented by myself during the second semester in 2020 at the University of Jordan.
+This repository has files for Automation Course that were implemented by myself during the second semester in 2020 at the University of Jordan.
 
 ## This Repository includes: 
 
