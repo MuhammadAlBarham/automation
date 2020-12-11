@@ -1,0 +1,7 @@
+The diameter is 14 cm so the radius (r) = 7 cm 
+
+* so for 1 full revoution the distance is equal to = 2 * pi * r = 2 *(22/7)*7 cm =  44 cm 
+
+* Find the distance between to sensors using HSC ( High Speed Counter) : 
+
+ n = (N7:3) pulse * 44 cm * (1 rev/720 pulse) 
