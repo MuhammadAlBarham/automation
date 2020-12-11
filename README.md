@@ -17,6 +17,7 @@ This repository has files that were implemented by myself during the second seme
 - Course instructor Dr. Musa Al-Yaman 
 - Lab instructor : Eng. Safaa Al-Wriedat 
 
+## Youtube Playlist for visualization :
 
 - [My YouTube Playlist](https://www.youtube.com/playlist?list=PLR7GqPO_6lTgoqBkRVdcAt3OrpF7vdkGS).
 
